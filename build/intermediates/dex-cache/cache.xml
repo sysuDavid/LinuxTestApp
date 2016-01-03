@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/weijia/AndroidStudioProjects/LinuxTestApplication/app/libs/AMap_Location_V2.2.0_20151222.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c50588eaa1b491ba27c1f53d6015bb403babbe4d">
+        <dex dex="/home/weijia/AndroidStudioProjects/LinuxTestApplication/app/build/intermediates/pre-dexed/debug/AMap_Location_V2.2.0_20151222_a12cd6b00dcab341992924f5564e89798b723cd2.jar" />
+    </item>
+
+</items>
